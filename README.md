@@ -46,3 +46,19 @@ upload.php - Upload and Image Processing, Download Interface
 Sam Escamilla = Design input and user experience
 
 Tim Johnson   = Server-side processing
+
+## Special Thanks
+Deborah Scott
+
+Carlos Monroy
+
+Charles Tharangaraj
+
+Kim & Bill Johnson 
+
+Thanks for all your help and support :-) 
+
+To everyone at UST, have a wonderful holiday season. It's been a great ride and I hope your future is bright
+
+God Bless and thanks for all the Fun! 
+
